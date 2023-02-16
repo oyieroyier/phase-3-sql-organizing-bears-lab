@@ -80,9 +80,8 @@ Get the tests in `spec/create_spec.rb` to pass by writing code in the
 `lib/create.sql` file. Your `CREATE` statement should look something like this:
 
 ```sql
-CREATE TABLE bears (
-  //columns here
-);
+CREATE TABLE
+  bears (/ / columns here);
 ```
 
 Your columns should be the following types:
